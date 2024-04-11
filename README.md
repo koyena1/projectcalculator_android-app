@@ -1,2 +1,2 @@
 # projectcalculator_android-app
-this is android app project
+this is an android app project
